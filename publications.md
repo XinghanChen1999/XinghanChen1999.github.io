@@ -8,7 +8,7 @@ title: Publications
 
 - **Chen XH**, Ding XW, Ye Y. (2024) Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials. *Environment and Planning B: Urban Analytics and City Science*. (Major Revision)
 
-- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning. *Landscape Architecture* 31(3): 123-131. (Chinese, DOI: 10.3724/j.fjyl.202305080216)
+- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning. *Landscape Architecture* 31(3): 123-131. (Chinese, DOI: 10.3724/j.fjyl.202305080216(https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf))
 
 - Ye Y, Zhang HL, **Chen XH**, et al. (2024) Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case. *The Architect* 3(2): 31-38. (Chinese, DOI: 10.12285/jzs.20240403003)
 
@@ -17,9 +17,17 @@ title: Publications
 
 ---
 
-## Conference Paper
+## Conference Papers
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
+- **Chen XH**, Ye Y. (2024) Intelligent redelineation and feature analysis of urban historical areas. *The 64th Association of Collegiate Schools of Planning (ACSP)*. Seattle, America. (Accepted)
+
+- **Chen XH**, Zhang YP, Ye Y. (2024) Assisting refined urban management: Building an evaluation framework of data mapping rate towards digital twin city platforms. *The 6th International Conference on Computational Design and Robotic Fabrication (CDRF)*. Shanghai, China. (Accepted)
+
+- **Chen XH**, Ding XW, He HY, et al. (2024) Measuring sense of place as an unmeasurable urban environment: Using Street View images and CNN to detect building façade materials. *The 28th International Conference Association People-environment Studies (IAPS)*. Barcelona, Spain. (Accepted)
+
+- **Chen XH**, Yu HT, Zhang HL, et al. (2023) Evaluating and optimizing the functional composition of community centres: A data-informed approach assisting 15-minute community life circle. *The 30th International Seminar on Urban Form (ISUF)*. Belgrade, Serbia.
+
+- **Chen XH**, Kang SZ, Huang CC, et al. (2023) A human-oriented exploration of data-informed urban design: A case study in Shanghai. *The 18th International Conference on Computational Urban Planning and Urban Management (CUPUM)*. Montreal, Canada.
 
   <br>
 
@@ -28,9 +36,7 @@ title: Publications
 
 ## Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
+- Decoding diversity of global cityscapes: Measuring unmeasurable cityscapes and the construction of a global genealogy<br>
 
   <br>
 
