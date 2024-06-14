@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="400" height="390">
 
 Here is **Xinghan Chen (陈星汉)**.
 
