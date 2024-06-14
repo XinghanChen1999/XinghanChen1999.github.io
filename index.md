@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="XinghanChen1999.github.io/images/cxh.jpg.jpg" class="floatpic" width="400" height="390">
+<img src="XinghanChen1999.github.io/images/cxh.jpg" class="floatpic" width="400" height="390">
 
 Here is **Xinghan Chen (陈星汉)**.
 
