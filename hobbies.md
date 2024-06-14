@@ -6,16 +6,16 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Travel
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/travel1.JPG">
+<img src="/images/travel2.JPG">
+<img src="/images/travel3.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+<br>Traveling allows me to experience the unique cultures of cities around the world. In addition to exploring China, I have visited the United Kingdom, Japan, and Serbia. These journeys have enriched my understanding of the cultural contexts and architectural characteristics of different cities, continually fueling my curiosity and passion for urban studies.
 
-## Workshop
+## Cooking
 
 <div class="third">
 <img src="/images/prelection1.JPG">
