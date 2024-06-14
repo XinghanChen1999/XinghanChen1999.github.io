@@ -8,9 +8,9 @@ title: Publications
 
 - **Chen XH**, Ding XW, Ye Y. (2024) Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials. *Environment and Planning B: Urban Analytics and City Science*. (Major Revision)
 
-- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning. *Landscape Architecture* 31(3): 123-131. (Chinese, DOI: 10.3724/j.fjyl.202305080216(https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf))
+- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning. *Landscape Architecture* 31(3): 123-131. (Chinese, DOI: [10.3724/j.fjyl.202305080216](https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf))
 
-- Ye Y, Zhang HL, **Chen XH**, et al. (2024) Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case. *The Architect* 3(2): 31-38. (Chinese, DOI: 10.12285/jzs.20240403003)
+- Ye Y, Zhang HL, **Chen XH**, et al. (2024) Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case. *The Architect* 3(2): 31-38. (Chinese, DOI: [10.12285/jzs.20240403003](https://XinghanChen1999.github.io/file/JA-The-Architect.pdf))
 
   <br>
 
