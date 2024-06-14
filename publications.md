@@ -4,12 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
-
 ## Journal Articles
 
 - **Chen XH**, Ding XW, Ye Y. (2024) Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials. *Environment and Planning B: Urban Analytics and City Science*. (Major Revision)
 
+- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning. *Landscape Architecture* 31(3): 123-131. (Chinese, DOI: 10.3724/j.fjyl.202305080216)
+
+- Ye Y, Zhang HL, **Chen XH**, et al. (2024) Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case. *The Architect* 3(2): 31-38. (Chinese, DOI: 10.12285/jzs.20240403003)
 
   <br>
 
@@ -22,16 +23,6 @@ title: Publications
 
   <br>
 
-
----
-
-## Thesis (FYP)
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br>
 
 ---
 
