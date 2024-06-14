@@ -9,9 +9,9 @@ title: Hobbies
 ## Travel
 
 <div class="third">
-<img src="/images/travel1.JPG">
-<img src="/images/travel2.JPG">
-<img src="/images/travel3.JPG">
+<img src="/images/travel1.jpg">
+<img src="/images/travel2.jpg">
+<img src="/images/travel3.jpg">
 </div>
 <br>Traveling allows me to experience the unique cultures of cities around the world. In addition to exploring China, I have visited the United Kingdom, Japan, and Serbia. These journeys have enriched my understanding of the cultural contexts and architectural characteristics of different cities, continually fueling my curiosity and passion for urban studies.
 
