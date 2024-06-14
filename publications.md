@@ -6,9 +6,19 @@ title: Publications
 
 > Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
+## Journal Articles
+
+- **Chen XH**, Ding XW, Ye Y. (2024) Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials. *Environment and Planning B: Urban Analytics and City Science*. (Major Revision)
+
+
+  <br>
+
+
+---
+
 ## Conference Paper
 
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
+- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
 
   <br>
 
