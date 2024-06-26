@@ -8,24 +8,23 @@ layout: page
 
 Here is **Xinghan Chen (陈星汉)**.
 
-I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+I am a Master's candidate in the College of Architecture and Urban Planning (CAUP) at Tongji University and am currently serving as a research assistant at the Computational Urban Design Lab, under the guidance of [Prof. Yu Ye](https://www.researchgate.net/profile/Yu-Ye-10). Recently, I have been applying for a PhD program.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *2230078[at]tongji[dot]edu[dot]cn*
 
 ## Academic Background
 
-- **Sep 2022 - Future:** Tongji University (MSc, CAUP)
+- **Sep 2022 - Present:** Tongji University (MSc, CAUP)
 - **Sep 2018 - Jun 2022:** Tongji University (BEng, CAUP)
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- Urban Morphology
+- Urban Equity
+- Digital Humanities
+- Computational Design
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
