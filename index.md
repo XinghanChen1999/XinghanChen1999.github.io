@@ -26,19 +26,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Digital Humanities
 - Computational Design
 
-My current research focuses on measurements of cityscapes and the construction of a global genealogy (my master's thesis topic). I excel in using quantitative methods such as spatial analysis (ArcGIS), deep learning, and machine vision to analyze spatial issues and measure urban quality. In the future, I wish to dedicate myself to promoting urban inclusiveness and preserving cultural diversity -- two meaningful and exciting directions.
+My current research focuses on measuring global cityscapes using Street View images and constructing a cultural genealogy (my master's thesis topic). I excel in using quantitative methods such as spatial analysis (ArcGIS), deep learning, and machine vision to analyze spatial issues and measure urban quality. In the future, I wish to dedicate myself to some meaningful and exciting directions, such as promoting urban equity and preserving cultural diversity.
 
 ---
 
 ## News and Updates
+- **July 2024：**Very excited to present our work *Assisting refined urban management: Building an evaluation framework of data mapping rate towards digital twin city platforms* at [CDRF 2024](https://www.digitalfutures.world/conference/18.html). 
+- **July 2024：**Very excited to present our work *Measuring sense of place as an unmeasurable urban environment: Using Street View images and CNN to detect building façade materials* at [IAPS 2024](https://www.iaps2024barcelona.com/). 
+- **May 2024：**Our work *Intelligent redelineation and feature analysis of urban historical areas* has been accepted to [ACSP 2024](https://www.acsp.org/page/ConfAllAbout2024) as an individual paper. **See you in Seattle!**🎉
 
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300) 🎉
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
