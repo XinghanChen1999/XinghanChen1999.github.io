@@ -13,14 +13,14 @@ title: Publications
 </div>
 <br>
 
-- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning. *Landscape Architecture* 31(3): 123-131. ([Chinese](https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf)🔗) <br>
+- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) [Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning.](https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf)🔗 *Landscape Architecture* 31(3): 123-131. (Chinese) <br>
 
 <div class="first">
 <img src="/images/R2.jpg">
 </div>
 <br>
 
-- Ye Y, Zhang HL, **Chen XH**, et al. (2024) Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case. *The Architect* 3(2): 31-38. ([Chinese](https://XinghanChen1999.github.io/file/JA-The-Architect.pdf)🔗) 
+- Ye Y, Zhang HL, **Chen XH**, et al. (2024) [Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case.](https://XinghanChen1999.github.io/file/JA-The-Architect.pdf)🔗 *The Architect* 3(2): 31-38. (Chinese) 
 
   <br>
 
