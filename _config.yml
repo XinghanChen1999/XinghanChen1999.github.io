@@ -10,7 +10,7 @@ owner:
   avatar: cxhbb.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 2230078@tongji.edu.cn
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://XinghanChen1999.github.io/file/cv-XinghanCHEN.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # github: GuangLun2000
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -42,6 +42,8 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
+  - title: Activities
+    url: /activities/
   - title: Hobbies
     url: /hobbies/
 
@@ -75,7 +77,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: Xinghan
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
