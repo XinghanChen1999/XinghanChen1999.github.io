@@ -37,7 +37,7 @@ title: Publications
 
 - **Chen XH**, Yu HT, Zhang HL, et al. (2023) [Evaluating and optimizing the functional composition of community centres: A data-informed approach assisting 15-minute community life circle.](https://XinghanChen1999.github.io/file/ISUF.pdf)🔗 *The 30th International Seminar on Urban Form (ISUF)*. Belgrade, Serbia.
 
-- **Chen XH**, Kang SZ, Huang CC, et al. (2023) A human-oriented exploration of data-informed urban design: A case study in Shanghai. *The 18th International Conference on Computational Urban Planning and Urban Management (CUPUM)*. Montreal, Canada.
+- **Chen XH**, Kang SZ, Huang CC, et al. (2023) [A human-oriented exploration of data-informed urban design: A case study in Shanghai.](https://XinghanChen1999.github.io/file/CUPUM_2023.pdf)🔗 *The 18th International Conference on Computational Urban Planning and Urban Management (CUPUM)*. Montreal, Canada.
 
   <br>
 
