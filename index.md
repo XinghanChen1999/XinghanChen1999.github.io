@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xinghan Chen (陈星汉)**.
 
-I am a Master's candidate in the College of Architecture and Urban Planning (CAUP) at Tongji University. Currently, I am serving as a research assistant at the Computational Urban Design Lab, under the guidance of [Prof. Yu Ye](https://www.researchgate.net/profile/Yu-Ye-10).
+I am a Master's candidate in the College of Architecture and Urban Planning (CAUP) at Tongji University. Currently, I am serving as a research assistant at the [Computational Urban Design Lab](https://www.tjcud.cn/), under the guidance of [Prof. Yu Ye](https://www.researchgate.net/profile/Yu-Ye-10).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at 2230078@tongji.edu.cn
 
@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Digital Humanities
 - Computational Design
 
-My current research focuses on measuring global cityscapes using Street View images and constructing a cultural genealogy (my master's thesis topic). I excel in using quantitative methods such as spatial analysis (ArcGIS), deep learning, and machine vision to analyze spatial issues and measure urban quality. In the future, I wish to dedicate myself to some meaningful and exciting directions, such as promoting urban equity and preserving cultural diversity.
+My current research focuses on measuring global cityscapes using Street View images and constructing a cultural genealogy (my master's thesis topic). I excel in using quantitative methods such as spatial analysis (ArcGIS), deep learning, and machine vision to analyze spatial issues and measure urban quality. 
 
 ---
 
