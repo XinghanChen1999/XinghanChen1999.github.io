@@ -6,7 +6,11 @@ title: Publications
 
 ## Journal Articles
 
-- **Chen XH**, Ding XW, Ye Y. (2024) Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials. *Environment and Planning B: Urban Analytics and City Science*. (Major Revision)
+- **Chen XH**, Ding XW, Ye Y. (2024) Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials. *Environment and Planning B: Urban Analytics and City Science*. (Major Revision) <br>
+
+<div class="third">
+<img src="/images/R1.jpg">
+</div>
 
 - **Chen XH**, Yu HT, Xiong RJ, et al. (2024) Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning. *Landscape Architecture* 31(3): 123-131. ([Chinese](https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf)🔗)
 
