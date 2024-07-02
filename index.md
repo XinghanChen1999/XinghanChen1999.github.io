@@ -26,6 +26,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Digital Humanities
 - Computational Design
 
+<br>
+<div class="first">
+<img src="/images/R0.jpg">
+</div>
+<br>
+
 My current research focuses on measuring global cityscapes using Street View images and constructing a cultural genealogy (my master's thesis topic). I excel in using quantitative methods such as spatial analysis (ArcGIS), deep learning, and machine vision to analyze spatial issues and measure urban quality. 
 
 ---
