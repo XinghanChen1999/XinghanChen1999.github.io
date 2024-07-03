@@ -4,7 +4,7 @@ permalink: /activities/index.html
 title: Activities
 ---
 
-# Student representative, the 4th Global Grand Challenges Summit
+### Student representative, the 4th Global Grand Challenges Summit
 
 <div class="first">
 <img src="/images/A.jpg">
@@ -15,7 +15,7 @@ I joined an interdisciplinary team that included members from computer science, 
 
 ---
 
-# Part-time Counselor, College of Architecture and Urban Planning
+### Part-time Counselor, College of Architecture and Urban Planning
 
 <div class="first">
 <img src="/images/B.jpg">
@@ -26,18 +26,18 @@ I worked as a part-time counselor at Tongji University. My main responsibilities
 
 ---
 
-# Editor-in-Chief, Student Magazine "Future Architecture"
+### Editor-in-Chief, Student Magazine "Architecture of the Future"
 
 <div class="first">
 <img src="/images/C.jpg">
 </div>
 <br>
 
-I was the student editor for the 10th and 11th issues of "Future Architecture" (student magazine). My responsibilities included planning, organizing, collecting articles, designing, and publicizing. Our work was popular among both students and teachers and was often used as a souvenir for alumni forums and inter-school exchange events.<br>
+I was the student editor-in-chief for the 11th and 12th issues of "Architecture of the Future" (student magazine). My responsibilities included planning, organizing, collecting articles, designing, and publicizing. Our work was popular among both students and teachers and was often used as a souvenir for alumni forums and inter-school exchange events.<br>
 
 ---
 
-# Volunteer, the 10th China Flower Expo
+### Volunteer, the 10th China Flower Expo
 
 <div class="first">
 <img src="/images/D.jpg">
