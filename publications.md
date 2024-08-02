@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Journal Articles
+## Peer-Reviewed Journal Articles
 
 - **Chen XH**, Ding XW, Ye Y. (2024) [Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials.](https://XinghanChen1999.github.io/file/EPB0118.pdf)🔗 *Environment and Planning B: Urban Analytics and City Science*. (Major Revision) <br>
 
@@ -27,6 +27,16 @@ title: Publications
 
 ---
 
+## Manuscript in Preparation
+
+- Measuring unmeasurable cityscapes: Constructing a global genealogy to reveal the cityscape-culture nexus. 
+Targeted for *Nature: Cities*. Anticipated submission: September, 2024.<br>
+
+  <br>
+
+
+---
+
 ## Conference Papers
 
 - **Chen XH**, Ye Y. (2024) Intelligent redelineation and feature analysis of urban historical areas. *The 64th Association of Collegiate Schools of Planning (ACSP)*. Seattle, America. (Accepted)
@@ -41,14 +51,6 @@ title: Publications
 
   <br>
 
-
----
-
-## Manuscript
-
-- Decoding diversity of global cityscapes: Measuring unmeasurable cityscapes and the construction of a global genealogy<br>
-
-  <br>
 
 ---
 

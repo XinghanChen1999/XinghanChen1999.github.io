@@ -21,8 +21,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Urban Morphology
-- Urban Equity
+- Urban Form
+- Urban Visual Intelligence
+- Spatial Inequality
 - Digital Humanities
 - Computational Design
 
@@ -32,7 +33,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 </div>
 <br>
 
-My current research focuses on measuring global cityscapes using Street View images and constructing a cultural genealogy (my master's thesis topic). I excel in using quantitative methods such as spatial analysis (ArcGIS), deep learning, and machine vision to analyze spatial issues and measure urban quality. 
+My master's thesis focuses on measuring global cityscapes using Street View images and constructing a cultural genealogy. I excel in using quantitative methods such as spatial analysis (ArcGIS), deep learning, and machine vision to analyze spatial issues and measure urban quality. 
 
 ---
 
