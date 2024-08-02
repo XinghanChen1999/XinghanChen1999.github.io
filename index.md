@@ -33,7 +33,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 </div>
 <br>
 
-My master's thesis focuses on measuring global cityscapes using Street View images and constructing a cultural genealogy. I excel in using quantitative methods such as spatial analysis (ArcGIS), deep learning, and machine vision to analyze spatial issues and measure urban quality. 
+In my master's thesis, I utilized a series of CNN models to extract built environmental features from over five million SVIs of 75 cities worldwide and constructed a global genealogy of cityscapes. I excel in using quantitative methods such as deep learning, machine vision, and spatial analytical tools to measure previously unmeasurable urban features and qualities. 
 
 ---
 
