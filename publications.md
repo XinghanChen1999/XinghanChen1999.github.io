@@ -6,7 +6,7 @@ title: Publications
 
 ## Peer-Reviewed Journal Articles
 
-- **Chen XH**, Ding XW, Ye Y. (2024) Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials. *Environment and Planning B: Urban Analytics and City Science*. (Accepted) <br>
+- **Chen XH**, Ding XW, Ye Y. (2024) Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials. *Environment and Planning B: Urban Analytics and City Science*. (https://doi.org/10.1177/23998083241279992) <br>
 
 <div class="first">
 <img src="/images/R1.jpg">
