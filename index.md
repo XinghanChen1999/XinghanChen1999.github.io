@@ -27,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Digital Humanities
 - Computational Design
 
-I excel in using quantitative methods such as deep learning, computer vision, and spatial analytical tools to measure previously unmeasurable urban features and qualities. 
+I excel at using quantitative methods such as deep learning, computer vision, and spatial analytical tools to measure urban features and qualities that were previously unmeasurable.
 
 ---
 
