@@ -27,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Digital Humanities
 - Computational Design
 
-In my master's thesis, I utilized a series of CNN models to extract built environmental features from over five million SVIs of 75 cities worldwide and constructed a global genealogy of cityscapes. I excel in using quantitative methods such as deep learning, machine vision, and spatial analytical tools to measure previously unmeasurable urban features and qualities. 
+I excel in using quantitative methods such as deep learning, computer vision, and spatial analytical tools to measure previously unmeasurable urban features and qualities. 
 
 ---
 
