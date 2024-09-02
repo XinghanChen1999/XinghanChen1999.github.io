@@ -7,6 +7,8 @@ title: Publications
 ## Submitted
 
 - **Chen XH**, Zeng XC, Li L, et al. (2024) Measuring global cityscapes: Constructing a genealogy for the cityscape-culture nexus. *Nature Cities*. Submitted in September, 2024.<br>
+  
+<br>
 
 ---
 
@@ -14,11 +16,7 @@ title: Publications
 
 - **Chen XH**, Ding XW, Ye Y. (2024) [Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials.](https://XinghanChen1999.github.io/file/chen-et-al-2024.pdf)🔗*Environment and Planning B: Urban Analytics and City Science*. (https://doi.org/10.1177/23998083241279992) <br>
 
-  <br>
-
 - **Chen XH**, Yu HT, Xiong RJ, et al. (2024) [Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning.](https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf)🔗 *Landscape Architecture* 31(3): 123-131. (Chinese) <br>
-
-  <br>
 
 - Ye Y, Zhang HL, **Chen XH**, et al. (2024) [Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case.](https://XinghanChen1999.github.io/file/JA-The-Architect.pdf)🔗 *The Architect* 3(2): 31-38. (Chinese) 
 
