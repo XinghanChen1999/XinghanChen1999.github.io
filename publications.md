@@ -15,17 +15,17 @@ title: Publications
 
 - **Chen XH**, Ding XW, Ye Y. (2024) [Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials.](https://XinghanChen1999.github.io/file/chen-et-al-2024.pdf)🔗*Environment and Planning B: Urban Analytics and City Science*. (https://doi.org/10.1177/23998083241279992) <br>
 
-- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) [Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning.](https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf)🔗 *Landscape Architecture* 31(3): 123-131. (Chinese) <br>
+- **Chen XH**, Yu HT, Xiong RJ, et al. (2024) [Construction of an analytical framework for spatial indicator of Chinese classical gardens based on space syntax and machine learning.](https://XinghanChen1999.github.io/file/JA-Landscape-Architecture.pdf)🔗 *Landscape Architecture* 31(3): 123-131. (In Chinese) <br>
 
-- Ye Y, Zhang HL, **Chen XH**, et al. (2024) [Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case.](https://XinghanChen1999.github.io/file/JA-The-Architect.pdf)🔗 *The Architect* 3(2): 31-38. (Chinese) 
+- Ye Y, Zhang HL, **Chen XH**, et al. (2024) [Precise urban regeneration via digital urban design: Using Lujiazui water loop project as the case.](https://XinghanChen1999.github.io/file/JA-The-Architect.pdf)🔗 *The Architect* 45(2): 31-38. (In Chinese) 
 
   <br>
 
 ---
 
-## Conference Papers
+## Conference Presentation
 
-- **Chen XH**, Ye Y. (2024) Intelligent redelineation and feature analysis of urban historical areas. *The 64th Association of Collegiate Schools of Planning (ACSP)*. Seattle, America. (Accepted)
+- **Chen XH**, Ye Y. (2024) Intelligent redelineation and feature analysis of urban historical areas. *The 64th Association of Collegiate Schools of Planning (ACSP)*. Seattle, America.
 
 - **Chen XH**, Zhang YP, Ye Y. (2024) [Assisting refined urban management: Building an evaluation framework of data mapping rate towards digital twin city platforms.](https://XinghanChen1999.github.io/file/CDRF_1229.pdf)🔗 *The 6th International Conference on Computational Design and Robotic Fabrication (CDRF)*. Shanghai, China.
 
