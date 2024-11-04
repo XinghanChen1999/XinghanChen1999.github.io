@@ -7,6 +7,7 @@ title: Awards
 
 ## Scholarships
 
+- 2023-2024：**<font color='red'>National Scholarship</font>** <br> The highest undergraduate scholarship in China. Awarded for ranking first in the major (top 1%).
 - 2022-2023：Merit Master's Student Scholarship, Tongji University
 - 2020-2021：**Tianxiang Scholarship** <br> Awarded for ranking second in the major (top 2%).
 - 2020-2021：Social Activity Scholarship, Tongji University
