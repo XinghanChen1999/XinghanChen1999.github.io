@@ -21,10 +21,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Urban Form
-- Urban Visual Intelligence
+- Urban data science
+- Urban morphology
 - Spatial Inequality
-- Digital Humanities
 - Computational Design
 
 I excel at using quantitative methods such as deep learning, computer vision, and spatial analytical tools to measure urban features and qualities that were previously unmeasurable.
