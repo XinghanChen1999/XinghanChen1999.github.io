@@ -6,7 +6,7 @@ title: Publications
 
 ## Manuscript in Review
 
-- **Chen XH**, Zeng XC, Li L, et al. (2024) Measuring global cityscapes: Constructing a genealogy for the cityscape-culture nexus. *Nature Cities*. （Under review since December, 2024）<br>
+- **Chen XH**, Zeng XC, Li L, et al. (2024) Measuring global cityscapes: Constructing a genealogy for the cityscape-culture nexus. *Nature Cities*. （Sent for peer review in December 2024）<br>
   
 <br>
 ---

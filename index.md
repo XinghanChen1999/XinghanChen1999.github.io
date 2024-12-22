@@ -31,7 +31,7 @@ I excel at using quantitative methods such as deep learning, computer vision, an
 ---
 
 ## News and Updates
-- **August 2024：**Delighted to share that our study, *Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials*, has been accepted by *Environment and Planning B: Urban Analytics and City Science*!🎉
+- **August 2024：**Delighted to share that our study, *Mapping sense of place as a measurable urban identity: Using Street View images and machine learning to identify building façade materials*, has been Published by *Environment and Planning B: Urban Analytics and City Science*!🎉
 - **July 2024：**Very excited to present our work *Assisting refined urban management: Building an evaluation framework of data mapping rate towards digital twin city platforms* at [CDRF 2024](https://www.digitalfutures.world/conference/18.html). 
 - **July 2024：**Very excited to present our work *Measuring sense of place as an unmeasurable urban environment: Using Street View images and CNN to detect building façade materials* at [IAPS 2024](https://www.iaps2024barcelona.com/). 
 - **May 2024：**Our work *Intelligent redelineation and feature analysis of urban historical areas* has been accepted to [ACSP 2024](https://www.acsp.org/page/ConfAllAbout2024) as an individual paper. **See you in Seattle!**🎉
